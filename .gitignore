@@ -1,0 +1,9 @@
+# binaries
+*.o
+loader
+
+# logs
+*.csv
+
+# temporary
+*.tmp
